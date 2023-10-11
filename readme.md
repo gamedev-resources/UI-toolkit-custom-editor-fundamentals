@@ -1,5 +1,5 @@
-> ## View the entire tutorial on [GameDev Resources](https://gamedev-resources.com/create-an-item-management-editor-tool-with-ui-toolkit/).
-> 
+> View the entire tutorial on [What Up Games](https://www.whatupgames.com).
+
 # Introduction
 
 Custom tooling is incredibly helpful for streamlining the development of any game. In times past I’ve created tools for quick access for managing the state of the game (cheats) and a for debugging the AI. Most recently, I’ve needed to create a custom tool for managing the item database and inventories for characters in my time travel game. A custom screen for managing scriptable object assets can be very handy, especially if you want to require certain actions or add custom validation.
